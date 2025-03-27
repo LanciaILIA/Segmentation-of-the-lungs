@@ -2,7 +2,8 @@
 
 U-net++ Сверточная нейросеть, обученная сегментировать легкие человека на радиографическом снимке
 
-keras
-numpy
-pandas
-matplotlib.pyplot
+**используемые библиотеки:** <br>
+keras <br>
+numpy <br>
+pandas <br>
+matplotlib.pyplot <br>
