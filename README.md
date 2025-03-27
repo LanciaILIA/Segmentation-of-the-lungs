@@ -1,9 +1,11 @@
 # Segmentation-of-the-lungs
+CNN для сегментации легких на рентгене
 
+### 
 U-net++ Сверточная нейросеть, обученная сегментировать легкие человека на радиографическом снимке
 
-**Используемые библиотеки:** <br>
-keras <br>
-numpy <br>
-pandas <br>
-matplotlib.pyplot <br>
+### Использованные технологии <br>
+* keras 
+* numpy 
+* pandas 
+* matplotlib.pyplot 
